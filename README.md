@@ -18,7 +18,7 @@ In the beginning, we have 69 different tables, but fortunately, they have the sa
 So we can transform them into one big table. It will help us to work with all data at once. 
 
 Let's figure out what columns we need and what information is important to analyze.
-First of all, we need **processes**, **activities**, and **name of process**, because it is the main part of the department job. 
+First of all, we need **processes**, **activities**, and **name of processes**, because it is the main part of the department job. 
 Then we need additional information. They are type of submission, type of application, and role.
 For the calculation time difficulty of process we add **time**.
 And at the end, we have to add a source of data(region, name of file), so our data can be reproduced.
@@ -27,4 +27,5 @@ Now we can use the Phyton script(main.py) to transform data from 69 files into o
 
 Having all data, we can create a Power BI report.
 
+https://user-images.githubusercontent.com/25695606/225366905-27069971-4509-4181-b56c-79c87257bb6c.mp4
 
