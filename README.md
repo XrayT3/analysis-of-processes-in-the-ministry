@@ -12,3 +12,16 @@ It has never centrally addressed whether and how benefits are administered proce
 - Code for data transformation
 - Power BI data report and short presentation
 
+## Solution
+
+In the beginning, we have 69 different tables, but fortunately, they have the same format. 
+So we can transform them into one big table. It will help us to work with all data at once. 
+
+Let's figure out what columns we need and what information is important to analyze.
+First of all, we need **processes**, **activities**, and **name of process**, because it is the main part of the department job. 
+Then we need additional information. They are type of submission, type of application, and role.
+For the calculation time difficulty of process we add **time**.
+And at the end, we have to add a source of data(region, name of file), so our data can be reproduced.
+
+Now we can use Phyton skript(main.py) for transformation data from 69 files into one table(table.xlsx) with all data
+
