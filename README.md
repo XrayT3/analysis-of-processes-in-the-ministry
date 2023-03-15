@@ -23,5 +23,8 @@ Then we need additional information. They are type of submission, type of applic
 For the calculation time difficulty of process we add **time**.
 And at the end, we have to add a source of data(region, name of file), so our data can be reproduced.
 
-Now we can use Phyton skript(main.py) for transformation data from 69 files into one table(table.xlsx) with all data
+Now we can use the Phyton script(main.py) to transform data from 69 files into one table(table.xlsx).
+
+Having all data, we can create a Power BI report.
+
 
