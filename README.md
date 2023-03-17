@@ -27,5 +27,4 @@ Now we can use the Phyton script(main.py) to transform data from 69 files into o
 
 Having all data, we can create a Power BI report.
 
-https://user-images.githubusercontent.com/25695606/225366905-27069971-4509-4181-b56c-79c87257bb6c.mp4
-
+https://user-images.githubusercontent.com/25695606/225839053-13c127b0-85cd-49ae-8f9e-1325ad6e987c.mp4
